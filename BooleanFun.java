@@ -34,7 +34,7 @@ public class BooleanFun {
         System.out.println("On your next birthday out you will be: " + futureAge); //complete this code, don't do math in sout
 
         //further modification: prompt user for input and then print what they are able to do based on their age
-        //and print their age on their next birthd
+        //and print their age on their next birth
 
     }
 }
